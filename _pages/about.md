@@ -6,7 +6,7 @@ subtitle: Robotics Engineer #<a href='#'>Affiliations</a>. Address. Contacts. Mo
 
 profile:
   align: right
-  image: profile_pic2.jpg
+  image: portait2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>     Greater Boston, MA</p>

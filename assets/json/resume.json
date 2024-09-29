@@ -1,27 +1,4 @@
 {
-  "basics": {
-    "name": "Korkut Eken",
-    "Title": "",
-    "image": "",
-    "email": "keken@ucsd.edu",
-    "phone": "",
-    "url": "https://korkuteken.github.io",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Boston",
-      "countryCode": "US",
-      "region": "Massaschusetts"
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
-  },
   "education": [
     {
       "institution": "University of California, San Diego",
@@ -32,7 +9,10 @@
       "startDate": "2021-09",
       "endDate": "2023-06",
       "score": "",
-      "courses": ["Micro-MBA Program"]
+      "courses": ["Micro-MBA Program","Safety for Autonomous Vehicles", 
+      "Linear Systems Theory", "Linear Control Design","Optimal Estimation",
+       "Robot Sensing and Estimation", "Planning and Learning in Robotics", 
+       "Parametric System Identification"]
     },
     {
       "institution": "University of Illinois at Urbana-Champaign",
@@ -43,7 +23,7 @@
       "startDate": "2017-08",
       "endDate": "2021-05",
       "score": "3.7/4.0",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Introduction to Robotics","Robot Dynamics and Control", "Mechatronics", "Data Structures"]
     }
   ],
   "work": [
@@ -93,69 +73,22 @@
       "highlights": ""
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+    
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
+    
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Continuous Skin Eversion Enables an Untethered Soft Robot to Burrow in Granular Media",
+      "publisher": " 2023 IEEE International Conference on Soft Robotics (RoboSoft)",
+      "releaseDate": "2023-05-15",
+      "url": "https://doi.org/10.1109/RoboSoft55895.2023.10122021",
+      "summary": "Presented an untethered, continuously everting soft robot for exploration in granular media."
     }
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
   ],
   "languages": [
     {
@@ -175,18 +108,6 @@
     }
   ],
   "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
   ],
   "references": [
     

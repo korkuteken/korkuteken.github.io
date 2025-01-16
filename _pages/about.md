@@ -11,22 +11,19 @@ profile:
   more_info: >
     <p>     Greater Boston, MA</p>
 
-
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 projects: true
 ---
 
-Hi! I'm Korkut, a robotics engineer passionate about developing intelligent robotic systems. I hold a Bachelor's degree in Mechanical Engineering from [University of Illinois at Urbana-Champaign](https://illinois.edu/) and a Master's degree specializing in robotics and control from [University of California, San Diego](https://ucsd.edu/). Throughout my education, I've got involved in variety of robotics projects and worked on both designing and programming robots. 
+Hi! I'm Korkut, a robotics engineer passionate about developing intelligent robotic systems. I hold a Bachelor's degree in Mechanical Engineering from [University of Illinois at Urbana-Champaign](https://illinois.edu/) and a Master's degree specializing in robotics and control from [University of California, San Diego](https://ucsd.edu/). Throughout my education, I've got involved in variety of robotics projects and worked on both designing and programming robots.
 
-I have experience in Python, C/C++, ROS, and MATLAB in addition to control systems, state estimation, planning, and CAD modeling. I am excited to apply my skillset to tackle real-world challenges in robotics. Besides working on robots, I enjoy jumping out of perfectly fine airplanes 🪂, snowboarding  🏂, and sim racing 🏎️. 
+I have experience in Python, C/C++, ROS, and MATLAB in addition to control systems, state estimation, planning, and CAD modeling. I am excited to apply my skillset to tackle real-world challenges in robotics. Besides working on robots, I enjoy jumping out of perfectly fine airplanes 🪂, snowboarding 🏂, and sim racing 🏎️.
 
 Check out my past projects and please feel free to reach out to discuss new opportunities!
 
-
-
-###### Some parts of the website are 🚧⚠️**STILL UNDER CONSTRUCTION**⚠️🚧. 
+###### Some parts of the website are 🚧⚠️**STILL UNDER CONSTRUCTION**⚠️🚧.
 
 Thank you for your patience!
 

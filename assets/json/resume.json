@@ -9,10 +9,16 @@
       "startDate": "2021-09",
       "endDate": "2023-06",
       "score": "",
-      "courses": ["Micro-MBA Program","Safety for Autonomous Vehicles", 
-      "Linear Systems Theory", "Linear Control Design","Optimal Estimation",
-       "Robot Sensing and Estimation", "Planning and Learning in Robotics", 
-       "Parametric System Identification"]
+      "courses": [
+        "Micro-MBA Program",
+        "Safety for Autonomous Vehicles",
+        "Linear Systems Theory",
+        "Linear Control Design",
+        "Optimal Estimation",
+        "Robot Sensing and Estimation",
+        "Planning and Learning in Robotics",
+        "Parametric System Identification"
+      ]
     },
     {
       "institution": "University of Illinois at Urbana-Champaign",
@@ -23,7 +29,7 @@
       "startDate": "2017-08",
       "endDate": "2021-05",
       "score": "3.7/4.0",
-      "courses": ["Introduction to Robotics","Robot Dynamics and Control", "Mechatronics", "Data Structures"]
+      "courses": ["Introduction to Robotics", "Robot Dynamics and Control", "Mechatronics", "Data Structures"]
     }
   ],
   "work": [
@@ -73,12 +79,8 @@
       "highlights": ""
     }
   ],
-  "awards": [
-    
-  ],
-  "certificates": [
-    
-  ],
+  "awards": [],
+  "certificates": [],
   "publications": [
     {
       "name": "Continuous Skin Eversion Enables an Untethered Soft Robot to Burrow in Granular Media",
@@ -88,8 +90,7 @@
       "summary": "Presented an untethered, continuously everting soft robot for exploration in granular media."
     }
   ],
-  "skills": [
-  ],
+  "skills": [],
   "languages": [
     {
       "language": "Turkish",
@@ -107,9 +108,6 @@
       "icon": ""
     }
   ],
-  "interests": [
-  ],
-  "references": [
-    
-  ]
+  "interests": [],
+  "references": []
 }

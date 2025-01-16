@@ -4,7 +4,7 @@ title: Controlling a Self Balancing Robot with Music Notes
 description: Mechatronics Project
 img: assets/img/self_balanced.gif
 # redirect: https://unsplash.com
-importance: 3
+importance: 4
 category: robotics
 ---
 

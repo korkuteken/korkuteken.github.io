@@ -3,7 +3,7 @@ layout: page
 title: Path Planning using Dynamic Programming
 description: Robot Planning and Learning
 img: assets/img/planning_cover.gif
-importance: 1
+importance: 2
 category: robotics
 related_publications: false
 ---
